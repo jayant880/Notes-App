@@ -1,9 +1,9 @@
+import CreateNotePage from "./Pages/CreateNotePage";
+
 function App() {
-  return (
-    <>
-      <h1>Hello World</h1>
-    </>
-  )
+  return <>
+    <CreateNotePage />
+  </>
 }
 
-export default App
+export default App;
